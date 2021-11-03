@@ -12,7 +12,8 @@ Weather Dashboard that allows you to look up the temperature, humidity, and wind
 
 # Images
 
-![image](https://user-images.githubusercontent.com/89003419/140012156-8f34b05c-9bbd-4c96-86ab-3ef081870857.png)
+![image](https://user-images.githubusercontent.com/89003419/140012235-e1315843-9536-4e1d-837b-74fe1536dc00.png)
+
 
 
 # Contact
